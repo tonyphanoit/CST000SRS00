@@ -2,9 +2,9 @@
 Hello World
 
 
-Class ID: *Pokemon*
+Class ID: *Spearow*
 
-SRS ID: *CST???SRS00*
+SRS ID: *CST126SRS00*
 
 Unresolved Issues:  None. 
 
